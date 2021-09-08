@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h3>Hallo test pokemon</h3>
+    <h3>Hallo test pokemon sjekk 1</h3>
     {{pokemons}}
   </div>
 </template>
